@@ -1,6 +1,55 @@
-
+/* 
 body {
     font-family: arial;
     background-color: rgb(230, 102, 17);}
 h1 {
-    color: rgb(226, 21, 21);}
+    color: rgb(226, 21, 21);} */
+ 
+
+
+/* //Type/element slector
+       p {
+        color: red;
+        }
+     */
+
+    /* //Class selector */
+  /* .h1-red{
+color: blueviolet;
+  }
+  .Berlin{
+    color: brown;
+  }
+   */
+
+/* [href]{
+color:aquamarine;
+} */
+/* 
+[href]:hover {
+    background-color:red;
+}
+
+button:hover {
+    background-color:red;
+} */
+/* 
+h1 {
+    color: red;
+  }
+    */
+  /* .headline {
+    color: firebrick;
+  }
+   */
+   /* .headline{
+    color: chartreuse;
+    background-color: blue;
+   }
+  */
+  #mydiv{
+    background-color: pink;
+    font-family:'Times New Roman';
+    height: 80px;
+    width: 350px;
+  }
